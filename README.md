@@ -1,3 +1,4 @@
 # Machine-Learning-Labs
 
-*Practical 1: House Price Prediction using Linear Regression
+The main objective of this practical is to:
+* Understand the fundamentals of Linear Regression.

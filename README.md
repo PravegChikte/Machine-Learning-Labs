@@ -1,4 +1,4 @@
 # Machine-Learning-Labs
 
-The main objective of this practical is to:
+Practical 1:
 * Understand the fundamentals of Linear Regression.

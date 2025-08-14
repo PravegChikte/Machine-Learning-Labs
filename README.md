@@ -8,3 +8,6 @@ Practical 2:
 
 Practical 3:
 * To perform data preprocessing and cleaning operation.
+
+Practical 4:
+* To explore and implement Principal Component Analysis.

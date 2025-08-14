@@ -11,3 +11,6 @@ Practical 3:
 
 Practical 4:
 * To explore and implement Principal Component Analysis.
+
+Practical 5:
+* To implement K-Nearest Neighbour Algorithm on 2D Feature Dataset

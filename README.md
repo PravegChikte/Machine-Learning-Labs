@@ -14,3 +14,6 @@ Practical 4:
 
 Practical 5:
 * To implement K-Nearest Neighbour Algorithm on 2D Feature Dataset
+
+Practical 6:
+* To implement Decision Tree 

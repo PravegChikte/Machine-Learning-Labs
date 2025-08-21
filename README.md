@@ -16,4 +16,7 @@ Practical 5:
 * To implement K-Nearest Neighbour Algorithm on 2D Feature Dataset
 
 Practical 6:
-* To implement Decision Tree 
+* To implement Decision Tree
+
+Practical 7:
+* To explore and implement Naive Bayes Classifier

@@ -20,3 +20,6 @@ Practical 6:
 
 Practical 7:
 * To explore and implement Naive Bayes Classifier
+
+Practical 8:
+* Comparison Of Decision Tree and Random Forest Classifier

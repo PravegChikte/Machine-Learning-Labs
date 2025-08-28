@@ -23,3 +23,6 @@ Practical 7:
 
 Practical 8:
 * Comparison Of Decision Tree and Random Forest Classifier
+
+Practical 9:
+* To explore and implement Simple Linear Regression

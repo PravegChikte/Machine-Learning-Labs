@@ -26,3 +26,12 @@ Practical 8:
 
 Practical 9:
 * To explore and implement Simple Linear Regression
+
+Practical 10:
+* To explore and implement Multiple Linear Regression
+
+Practical 11:
+* To explore and implement Logistic Regression
+
+Practical 12:
+* To explore and implement Polynomial Regression

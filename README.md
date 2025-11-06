@@ -35,3 +35,12 @@ Practical 11:
 
 Practical 12:
 * To explore and implement Polynomial Regression
+
+Practical 13:
+* To explore and implement K-means Clustering algorithm on real datasets
+
+Practical 14:
+* To analyse transactional data using apriori algorithm in order to discover itemsetws and generates association rules.
+
+Practical 15:
+* To explore and implement ANN (Artificial Neural Network)
